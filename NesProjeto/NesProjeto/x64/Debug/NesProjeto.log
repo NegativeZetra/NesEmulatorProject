@@ -1,0 +1,6 @@
+﻿  Bus.cpp
+  olc6502.cpp
+C:\Users\apr-m\source\repos\NesProjeto\NesProjeto\Bus.h(14,10): error C3646: 'cpu': especificador de substituição desconhecido
+C:\Users\apr-m\source\repos\NesProjeto\NesProjeto\Bus.h(14,13): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\apr-m\source\repos\NesProjeto\NesProjeto\olc6502.cpp(14,18): warning C4244: 'return': conversão de 'uint16_t' para 'uint8_t', possível perda de dados
+  Gerando Código...
